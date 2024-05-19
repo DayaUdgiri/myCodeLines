@@ -1,9 +1,1 @@
-# myCodeLines
-
-Create python environment withou conda in  windows cmd
-
-*python -m venv <path>\<env_name>*
-
-Activate python env without conda
-
-*<path_of_env>\Scripts\ativate.bat*
+This is to save my code lines for quick reference in future
