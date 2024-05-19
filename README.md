@@ -6,4 +6,4 @@ Create python environment withou conda in  windows cmd
 
 Activate python env without conda
 
-*/<path of env>\Scripts\ativate.bat*
+*<path_of_env>\Scripts\ativate.bat*
